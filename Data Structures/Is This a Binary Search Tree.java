@@ -1,10 +1,10 @@
-The Node class is defined as follows:
+
     class Node {
         int data;
         Node left;
         Node right;
      }
-*/
+
    
     boolean checkBST(Node root) {
        
