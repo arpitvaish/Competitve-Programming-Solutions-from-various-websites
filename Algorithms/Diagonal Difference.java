@@ -18,7 +18,6 @@ public class Solution {
         int[][] arr = new int[n][n];
         int primaryDiagnolSum = 0;
         int secondaryDiagnolSum = 0;
-        int diagnolDifference = 0;
         for (int i = 0; i < n; i++) {
             String[] arrRowItems = scanner.nextLine().split(" ");
             scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
