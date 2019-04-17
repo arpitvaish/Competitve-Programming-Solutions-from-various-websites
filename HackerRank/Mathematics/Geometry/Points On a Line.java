@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/challenges/points-on-a-line/problem
 import java.io.*;
 import java.math.*;
 import java.security.*;
