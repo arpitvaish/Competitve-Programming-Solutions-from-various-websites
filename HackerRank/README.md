@@ -57,3 +57,4 @@ This section contains solutions to problems on HackerRank.
 ## Mathematics
 ### Geometry
     - Points on a Line
+    - Rectangular Game
