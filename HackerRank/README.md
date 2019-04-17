@@ -53,3 +53,7 @@ This section contains solutions to problems on HackerRank.
     - Counting Sort 1
     - Counting Sort 2
     - Full Counting Sort
+    
+## Mathematics
+### Geometry
+    - Points on a Line
