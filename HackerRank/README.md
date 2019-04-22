@@ -58,3 +58,8 @@ This section contains solutions to problems on HackerRank.
 ### Geometry
     - Points on a Line
     - Rectangular Game
+    - Points on a Rectangle
+    - Sherlock and Planes
+    - Circle City
+    - Baby Step Giant Step
+    - A Circle and A Square
