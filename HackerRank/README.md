@@ -63,3 +63,4 @@ This section contains solutions to problems on HackerRank.
     - Circle City
     - Baby Step Giant Step
     - A Circle and A Square
+    - Jim Beam
